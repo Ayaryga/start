@@ -12,3 +12,11 @@ h1{
   color: blue;
 
 }
+.title{
+  cursor: pointer;
+}
+.change{
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
